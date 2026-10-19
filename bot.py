@@ -35,7 +35,7 @@ logger = logging.getLogger(__name__)
 # ============================
 BOT_TOKEN = os.getenv("BOT_TOKEN", "8811103012:AAExT6N1N4OjTGLfZPTEd8vvBZ6x3932mbg")
 OWNER_BOT_TOKEN = os.getenv("OWNER_BOT_TOKEN", "8814659924:AAEkJzxL8aGkktWX5CJqpXjuqXvE1PFqwkg")
-OWNER_CHAT_ID = int(os.getenv("OWNER_CHAT_ID", "8958621901l"))
+OWNER_CHAT_ID = int(os.getenv("OWNER_CHAT_ID", "8958621901"))
 
 BOT_NAME = "ANY AUTO BOT V10 ⚡"
 
